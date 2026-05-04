@@ -35,11 +35,11 @@
 
 <div align="center">
 
-![Crypthium's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Crypthium123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Crypthium123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypthium123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crypthium123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Crypthium123&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Crypthium123&theme=tokyonight&hide_border=true" />
 
 </div>
 
