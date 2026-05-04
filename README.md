@@ -4,7 +4,7 @@
 
 **Systems & Web Developer · Open Source Enthusiast · Linux Advocate**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Crypthium&color=0e75b6&style=flat&label=Profile+Views)](https://github.com/Crypthium)
+[![Profile Views](https://komarev.com/ghpvc/?username=Crypthium&color=0e75b6&style=flat&label=Profile+Views)](https://github.com/CyberGamecst)
 
 </div>
 
@@ -67,6 +67,6 @@
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+*"Break it. Fix it. Understand it."*
 
 </div>
