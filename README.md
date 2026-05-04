@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Crypthium&fontSize=60&fontColor=c0caf5&fontAlignY=38&desc=Systems%20%26%20Web%20Developer%20%7C%20Linux%20Advocate&descAlignY=58&descColor=565f89" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b27,100:7aa2f7&amp;height=200&amp;section=header&amp;text=Crypthium&amp;fontSize=60&amp;fontColor=c0caf5&amp;fontAlignY=38&amp;desc=Systems%20%26%20Web%20Developer%20%7C%20Linux%20Advocate&amp;descAlignY=58&amp;descColor=565f89" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Systems+%26+Web+Developer;Open+Source+Enthusiast;Linux+Advocate;Builder.+Breaker.+Understander.)](https://git.io/typing-svg)
 
