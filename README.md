@@ -4,7 +4,7 @@
 
 **Systems & Web Developer · Open Source Enthusiast · Linux Advocate**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Crypthium&color=0e75b6&style=flat&label=Profile+Views)](https://github.com/CyberGamecst)
+[![Profile Views](https://komarev.com/ghpvc/?username=Crypthium123&color=0e75b6&style=flat&label=Profile+Views)](https://github.com/Crypthium123)
 
 </div>
 
@@ -35,11 +35,11 @@
 
 <div align="center">
 
-![Crypthium's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberGamecst&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Crypthium's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Crypthium123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberGamecst&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypthium123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyberGamecst&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Crypthium123&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=CyberGamecst&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Crypthium123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
 
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CyberGamecst&theme=tokyo-night&hide_border=true)](https://github.com/CyberGamecst)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Crypthium123&theme=tokyo-night&hide_border=true)](https://github.com/Crypthium123)
 
 </div>
 
